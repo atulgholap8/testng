@@ -81,11 +81,7 @@ public class Project1 {
 	/* WebElement colure = driver.findElement(By.xpath("(//img[@class='imgSwatch'])[3]"));
 	 colure.click();
 		
-	WebElement selectsize = driver.findElement(By.xpath("//li[@id='size_name_1']"));
-	selectsize.click();*/
-	 WebElement addtocart = driver.findElement(By.xpath("//input[@name='submit.add-to-cart']"));
-	addtocart.click();
-			
+	
 	
 				
 	}
