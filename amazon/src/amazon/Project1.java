@@ -77,9 +77,7 @@ public class Project1 {
 	 driver.switchTo().window(atul.get(1));
 	 System.out.println(driver.getCurrentUrl());
 	
-	 ((JavascriptExecutor)driver).executeScript("window.scrollBy(0,300)");
-	/* WebElement colure = driver.findElement(By.xpath("(//img[@class='imgSwatch'])[3]"));
-	 colure.click();
+	
 		
 	
 	
